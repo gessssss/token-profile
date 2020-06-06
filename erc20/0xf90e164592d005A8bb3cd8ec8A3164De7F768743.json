@@ -1,0 +1,21 @@
+{
+  "symbol": "CTMC",
+  "address": "0xf90e164592d005A8bb3cd8ec8A3164De7F768743",
+  "overview":{
+        "en": "roadside booths",
+        "zh": "城管币，地摊经济秩序维护"
+  },
+  "email": "gessssss@163.com",
+  "website": "",
+  "whitepaper": "",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-06-06",
+  "initial_price":{
+        "ETH":"0.000001 ETH",
+        "USD":"0.00168 USD",
+        "BTC":"0.00000002 BTC"
+  },
+  "links": {
+    "github": "https://github.com/gessssss/token-profile.git"
+  }
+}
